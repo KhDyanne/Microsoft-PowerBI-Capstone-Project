@@ -12,4 +12,4 @@
 
 - Configuring alerts.
 
-Can be checked [here]([https://github.com/market-analysis](https://app.powerbi.com/view?r=eyJrIjoiN2U1MjZjNmMtZDhlMy00OGNjLTk4MTQtN2MyZDUwM2FkZDQwIiwidCI6ImJiODFlMDgyLTZmNzgtNDA4OS1hNmI2LTE3ODM3NzQ4ODQ0MyIsImMiOjEwfQ%3D%3D)
+Can be checked [here]([https://app.powerbi.com/view?r=eyJrIjoiN2U1MjZjNmMtZDhlMy00OGNjLTk4MTQtN2MyZDUwM2FkZDQwIiwidCI6ImJiODFlMDgyLTZmNzgtNDA4OS1hNmI2LTE3ODM3NzQ4ODQ0MyIsImMiOjEwfQ%3D%3D])
